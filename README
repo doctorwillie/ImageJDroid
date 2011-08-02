@@ -4,18 +4,18 @@ Code Tree for ImageJ Migration to Android
 PLEASE NOTE:
 
 1.  THIS REPOSITORY IS NOT READY FOR GENERAL USE YET.  AN ANNOUNCEMENT
-    WILL BE MADE LATER (IN THIS README) FILE WHEN THE REPOSITORY IS
+    WILL BE MADE LATER IN THIS README FILE WHEN THE REPOSITORY IS
     READY.
 
 2.  The ImageJDroid name may not be permanent.  If the Android ImageJ
     version, when completed, can be easily integrated into ImageJ and
-    seamlessly fired up as an Anroid app, the ImageJDroid name will be
-    dropped or kept only for development purposes.
+    seamlessly launched as an Anroid app, the ImageJDroid name will be
+    dropped (or kept only for development purposes).
 
 
 
 Willie
 drwillie650@gmail.com
-Tue Aug 02 15:43:05 2011 (EDT)
+Tue Aug 02 15:46:48 2011 EDT
 
 
