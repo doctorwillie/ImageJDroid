@@ -3,9 +3,9 @@ Code Tree for ImageJ Migration to Android
 
 PLEASE NOTE:
 
-1.  THIS REPOSITORY IS NOT READY TO BE USED FOR GENERAL USE YET.
-    ANNOUNCEMENT WILL BE MADE LATER (IN THIS README) FILE WHEN THE
-    REPOSITORY IS READY.
+1.  THIS REPOSITORY IS NOT READY FOR GENERAL USE YET.  AN ANNOUNCEMENT
+    WILL BE MADE LATER (IN THIS README) FILE WHEN THE REPOSITORY IS
+    READY.
 
 2.  The ImageJDroid name may not be permanent.  If the Android ImageJ
     version, when completed, can be easily integrated into ImageJ and
@@ -16,6 +16,6 @@ PLEASE NOTE:
 
 Willie
 drwillie650@gmail.com
-Tue Aug 02 15:38:24 2011 (EDT)
+Tue Aug 02 15:43:05 2011 (EDT)
 
 
